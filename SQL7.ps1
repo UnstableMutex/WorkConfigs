@@ -1,0 +1,1 @@
+Copy-Item -Path C:\Users\sonya\Documents\GitHub\WorkConfigs\ConfigOnSQL7\Releases -Destination C:\Users\sonya\Desktop\SVN\focus -recurse -Force
