@@ -1,1 +1,1 @@
-Copy-Item -Path C:\Users\sonya\Documents\GitHub\WorkConfigs\ConfigOnSQL7\Releases -Destination C:\Users\sonya\Desktop\SVN\focus -recurse -Force
+Copy-Item -Path C:\Users\storm\Desktop\Github\WorkConfigs\ConfigOnSQL7\Releases -Destination C:\Users\storm\Desktop\SVN\focus -recurse -Force
