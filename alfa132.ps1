@@ -1,0 +1,1 @@
+Copy-Item -Path C:\Users\storm\Desktop\Github\WorkConfigs\ConfigOnAlfa132\Releases -Destination C:\Users\storm\Desktop\SVN\focus -recurse -Force
